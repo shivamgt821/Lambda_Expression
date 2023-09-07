@@ -6,7 +6,7 @@ import java.util.function.Consumer;
 
 //call by value
 // calling by method
-public class MethodReferance {
+public class MethodReferance  {
 
 	public static void main(String[] args) {
 		List<String> names = Arrays.asList("Naveenn","Manoj","Shivam","Priya");
